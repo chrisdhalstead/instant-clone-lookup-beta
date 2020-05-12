@@ -1,7 +1,7 @@
 # instant-clone-lookup-beta
 Beta of the Horizon Instant Clone Lookup Tool
 
-Update February 6, 2019
+Update February 6, 2020
 
 @chrisdhalstead
 
