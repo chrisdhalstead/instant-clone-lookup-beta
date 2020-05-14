@@ -1,11 +1,15 @@
 # instant-clone-lookup-beta
 Beta of the Horizon Instant Clone Lookup Tool
 
-Update February 6, 2019
+Update May 14, 2020
 
 @chrisdhalstead
 
 chalstead@vmware.com
+
+###### Version Beta 2005.1
+
+Lots of fixes to detection/mapping of Pools to Internal VMs
 
 **Prerequisites:**
 
@@ -16,7 +20,7 @@ chalstead@vmware.com
 
 **Note**:
 
-- The tool only works right now with Instant Clone Desktops.  I will be adding support for Instant Clone RDSH in the next few days
+- The tool only works right now with Instant Clone Desktops.  I will be adding support for Instant Clone RDSH
 - Orphaned Internal VM's are not currently shown - I need to format them so hid them for now.
 - If you have a version installed, go to add/remove programs and remove the old version before installing the new one.
 
