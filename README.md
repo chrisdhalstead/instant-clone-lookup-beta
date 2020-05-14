@@ -5,7 +5,7 @@ Beta of the Horizon Instant Clone Lookup Tool
 
 chalstead@vmware.com
 
-###### Version Beta 2005.1
+##### Version Beta 2005.1
 
 May 14, 2020
 
